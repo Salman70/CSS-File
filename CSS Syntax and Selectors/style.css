@@ -1,0 +1,20 @@
+h1{
+    color: red;font-size: 50px;
+}
+p{
+    color: aqua;font-size: 70px;
+}
+#header{
+    background-color: aquamarine;
+    padding: 20PX;
+    font-size: 30PX;
+}
+.body{
+    background: rebeccapurple;
+    padding: 30px;
+}
+
+
+/* CSS Grouping*/
+
+h1,p,.body,#header{text-align: center;}

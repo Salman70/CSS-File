@@ -1,0 +1,24 @@
+h1{
+    color: red;
+    background-color: green;
+}
+body{
+    background-color: rgb(39, 209, 209);
+    /* background-image: url(Color\ correction\ 2\ \(1\).jpg); */
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.p1{
+    border: 5px solid red ;
+    border-radius: 50px;
+/* border-width: 5px;
+border-style: solid;
+border-color: hotpink;
+border-radius: 30px; */
+}
+
+#p2{
+    border-width: 5px;
+    border-style: dotted;
+    border-color: indigo;
+}

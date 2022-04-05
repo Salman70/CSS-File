@@ -1,0 +1,45 @@
+h1{
+    /* color: initial; */
+    /* background-color: khaki; */
+    margin: 50px;
+    border: 5px solid rgb(183, 0, 255);
+    outline:5px solid red ;
+    /* outline-width: 10px;
+    outline-style: solid;
+    outline-color: rgb(25, 158, 114); */
+    outline-offset: 10px; 
+}
+body{
+    background-color: lawngreen;
+
+}
+
+
+#p2{
+  
+    border-style: dotted;
+}
+.h2{
+    border: 2px solid yellow;
+    border-radius: 50px;
+    /* border-style: groove; */
+}
+
+.salman
+{
+    width: 500px;
+    height: 500px;
+    border: 5px solid blue;
+    background-color: red;
+    /* margin-top: 30px;
+    margin-left: 50px;
+    margin-left: 80px;
+    margin-bottom: 50px; */
+    /* margin: 70px  70px  70px 600px; 
+    margin: auto; */
+    padding: 50px 60px 80px 100px;
+}
+p{
+    color: rgb(18, 104, 95);
+    
+}
